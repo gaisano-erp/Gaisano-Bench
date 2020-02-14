@@ -1,0 +1,9 @@
+six
+Click
+jinja2
+virtualenv
+requests
+honcho
+python-crontab
+semantic_version
+GitPython==2.1.11
